@@ -1,16 +1,7 @@
-# electronic_shop
+# Appliances shop
 
-A new Flutter project.
+Flutter ui about appliances shop inspired by pinterest design.
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Maikzen/electronic_shop/blob/main/electronic_shop.gif" width="250" title="Animation beers"/><br><p><a href="https://www.pinterest.es/pin/308426274491173226/" target="_blank">Inspired by</a></p>
